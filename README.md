@@ -1,6 +1,6 @@
 ```markdown
 # Acme Ltd - Financial Market Data Warehouse (DWH)
-
+Demo video:https: //drive.google.com/file/d/1TGQzmtteSaRESwkSWw3NntkvmXVX8pvT/view?usp=sharing
 [cite_start]Proiect realizat conform specificațiilor oficiale pentru gestionarea și analizarea datelor financiare bi-temporale utilizând o arhitectură modernă pe straturi.
 
 ## Arhitectura Sistemului
